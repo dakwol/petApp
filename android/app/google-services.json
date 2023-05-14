@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363900407914",
+    "project_id": "zooclick",
+    "storage_bucket": "zooclick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363900407914:android:312f3277c732af081cba13",
+        "android_client_info": {
+          "package_name": "com.zooclick.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363900407914-m6ajc59pkej36f4uttp581i7lb9c5hnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw37O8cWI9jgazqe93-BODswzFgzJBd1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363900407914-m6ajc59pkej36f4uttp581i7lb9c5hnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

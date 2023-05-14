@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "ЗооКлик",
+    "slug": "ЗооКлик",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/images/webicons/apple-touch-icon.png",
+    "plugins": [
+      [
+        "react-native-appsflyer",{}
+      ]
+    ],
+    "splash": {
+      "image": "./src/assets/images/webicons/apple-touch-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/images/webicons/apple-touch-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/images/webicons/apple-touch-icon.png"
+    }
+  },
+
+  "name": "zooclick.app",
+  "displayName": "ZooClick",
+
+  "apiToken": "1npm i|0alxSynIDcWkVU08hLL8972QqTxrS27gGx1HC9Ob",
+  "geocoder_api_key": "926080c0-f5de-452d-b3e0-059c96d9ced5"
+}

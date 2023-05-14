@@ -1,0 +1,80 @@
+{
+  "auth": {
+    "registration": "REGISTER",
+    "back": "BACK",
+    "logout": "LOG OUT",
+    "email": "Email",
+    "password": "Password",
+    "E-mail": "Email"
+  },
+  "login": "LOG IN",
+  "forgotPassword": "FORGOT PASSWORD",
+  "category": "Category",
+  "city": "City",
+  "address": "Address",
+  "petList": "Pet list",
+  "type": "Type",
+  "age": "Age",
+  "color": "Color",
+  "chip": "Chip",
+  "description": "Description",
+  "wrongPass": "Incorrect password!",
+  "invalidEmail": "Email is not correct!",
+  "tooShortPass": "Password is too short!",
+  "defaultError": "Something went wrong !",
+  "requireRole": "Please select a role !",
+  "addAdditionalAddress": "ADD ADDITIONAL ADDRESS +",
+  "done": "Done",
+  "placeHolderSearchHome": "Search in Boston",
+  "notification": "Notification",
+  "back": "Back",
+  "event": {
+    "addPlus": "ADD +",
+    "newEvents": "New Events",
+    "addEvent": "ADD EVENT",
+    "addEventMap": "Add an Event",
+    "showList": "Show as List",
+    "addPhoto": "+ photo",
+    "topic": "Topic",
+    "emergency": "Emergency",
+    "removeImageSuccess": "Photo removed",
+    "addSuccess": "Event added",
+    "addError": "Error while adding event"
+
+  },
+  "pet": {
+    "addressOrContact": "Address / Contact",
+    "locationAndConditions": "Location & Conditions",
+    "addPet": "ADD A PET",
+    "addPetSuccess": "Add pet successfully",
+    "addPetError": "Error while adding pet",
+    "type_id": "Pet type",
+    "type_dog": "Dog",
+    "type_cat": "Cat"
+  },
+  "months": {
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "June",
+    "jul": "July",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec"
+  },
+  "days": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "tomorrow": "Tomorrow"
+  },
+  "comment": {
+    "add": "Add comment"
+  },
+  "chat": {
+    "send": "Send message"
+  }
+}
